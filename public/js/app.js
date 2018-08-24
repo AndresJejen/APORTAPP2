@@ -13956,7 +13956,6 @@ module.exports = __webpack_require__(44);
  */
 
 __webpack_require__(3);
-__webpack_require__(3);
 
 window.Vue = __webpack_require__(37);
 
